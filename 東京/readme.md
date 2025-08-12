@@ -1,1 +1,16 @@
-# 東京
+# 東京 觀光行程
+- https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/
+- [日本東京雙層露天觀光巴士車票｜VIP VIEW TOUR](https://www.kkday.com/zh-tw/product/23771)
+  - 傍晚好 ==> 行程時間 1 小時 10 分鐘
+  - 東京灣路線
+    - 東京車站 - 東京車站赤煉瓦紅磚造建築 - 丸之内 - 増上寺 - 東京鐵塔  - 彩虹橋 1 樓 - 富士電視台 - 自由女神像 - 台場海濱公園 - 彩虹橋 2 樓 - 汐留 - 銀座 - 東京車站
+  - 東京市區路線
+    - 東京車站 - 東京車站赤煉瓦紅磚造建築 - 丸之内 - 千鳥淵 - 赤坂迎賓館 - 神宮外苑 - 東京中城 - 六本木 - 東京鐵塔 - 日比谷 - 銀座 - 東京車站
+  - 首都高路線
+    - 東京車站 - 行走景點當天揭曉 - 東京車站
+- [【鎌倉一日遊】鎌倉大佛・江之電・鎌倉高中・江之島| 含江之電體驗費用（東京出發）](https://www.kkday.com/zh-tw/product/140045-kanagawa-cultural-tour-great-buddha-enoshima-enoden-japan)
+  - ※鎌倉高中至鎌倉大佛景點之間將搭乘江之電前往。前往搭乘電車的途中請務必跟緊導遊，如果中途掉隊的話後果自行負責。此費用為贈送項目，如因不可抗力因素無法搭乘江之電，費用不予退還。
+- [【1人成團】東京日光一日遊｜日光東照宮＆華嚴瀑布＆日光溫泉泡湯＆日光江户村｜銀座出發](https://www.kkday.com/zh-tw/product/12060-nikko-day-tour-from-tokyo-unesco-world-heritage-sites-and-more-japan)
+  - [讚]A方案：世界遺産・日光東照宮＆中禪寺湖＆華嚴瀑布＆日光溫泉鄉泡湯
+  - B方案：世界遺産・日光東照宮＆Edo Wonderland日光江戶村
+-   
