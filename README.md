@@ -12,12 +12,12 @@
     - 位置便利 距離【新宿站】和【新宿三丁目站】步行5分鐘
 - [お茶の水クラシック館](https://diskunion.net/shop/ct/ocha_classic)
   - 2025.8.8 買到Bernstein Mahler 3 Holland版 
-### Recordcity
-- RECORD CITY SHOP
+### RECORD CITY SHOP
 - 〒160-0023 东京都新宿区西新宿7-8-3-202
 - Opening 13:00-20:00 年中無休（年末年始を除く）
 - e-mail: shop@recordcity.jp1
 - Only some of the items listed on the web site are sold in the store.
+
 # 日本音樂廳
 - https://zh.wikipedia.org/zh-tw/Category:%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A8%82%E5%BB%B3
 - 三得利音樂廳（日語：サントリーホール，Suntory Hall）
