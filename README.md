@@ -1,22 +1,27 @@
 # Travel_JAPAN
 - [東京](./東京/readme.md)
+
 # 東京買LP
 ![新宿_LP.png](新宿_LP.png)
+
 ### DISC UNION
 - https://diskunion.net/
 - 店舗情報|店舗一覧 ==> https://diskunion.net/st/shop/area/
-- [大阪クラシック館](https://diskunion.net/shop/ct/osaka_classic)
+- [お茶の水クラシック館](https://diskunion.net/shop/ct/ocha_classic)
+  - 2025.8.8 買到Bernstein Mahler 3 Holland版 
 - 新宿地區
   - [Disk Union Shinjuku Classical Music CD Record Store](https://diskunion.net/shop/ct/shinjuku_classic)
     - 東京都新宿区新宿3-17-5 T&TIIIビル 3F
     - 位置便利 距離【新宿站】和【新宿三丁目站】步行5分鐘
-- [お茶の水クラシック館](https://diskunion.net/shop/ct/ocha_classic)
-  - 2025.8.8 買到Bernstein Mahler 3 Holland版 
 ### RECORD CITY SHOP
 - 〒160-0023 东京都新宿区西新宿7-8-3-202
 - Opening 13:00-20:00 年中無休（年末年始を除く）
 - e-mail: shop@recordcity.jp1
 - Only some of the items listed on the web site are sold in the store.
+
+### [大阪クラシック館](https://diskunion.net/shop/ct/osaka_classic)
+
+![OSAKA_DISC_UNION.jpg](OSAKA_DISC_UNION.jpg)
 
 # 日本音樂廳
 - https://zh.wikipedia.org/zh-tw/Category:%E6%97%A5%E6%9C%AC%E9%9F%B3%E6%A8%82%E5%BB%B3
