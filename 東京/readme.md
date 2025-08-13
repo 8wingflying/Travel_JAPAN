@@ -3,6 +3,7 @@
 - 好運日本行  https://www.gltjp.com/zh-hant/
   - [【熊野古道行程懶人包】一篇搞定！熊野三山兩天一夜示範行程](https://www.gltjp.com/zh-hant/article/item/20890/) 
 - [【東京自由行】Tokyo 5天4夜景點安排、住宿、必吃美食、行程規劃、富士山交通整理](https://rosaroundtheworld.com/tokyo-travel/)
+
 # 東京觀光巴士
 - https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/
 - [日本東京雙層露天觀光巴士車票｜VIP VIEW TOUR](https://www.kkday.com/zh-tw/product/23771)
@@ -26,14 +27,15 @@
 - [日本・東京｜江戶・淺草雷門・晴空塔｜人力車體驗](https://www.kkday.com/zh-tw/product/1951-tokyo-asakusa-rickshaw-tour-japan)
 - [【鎌倉一日遊】鎌倉大佛・江之電・鎌倉高中・江之島| 含江之電體驗費用（東京出發）](https://www.kkday.com/zh-tw/product/140045-kanagawa-cultural-tour-great-buddha-enoshima-enoden-japan)
   - ※鎌倉高中至鎌倉大佛景點之間將搭乘江之電前往。前往搭乘電車的途中請務必跟緊導遊，如果中途掉隊的話後果自行負責。此費用為贈送項目，如因不可抗力因素無法搭乘江之電，費用不予退還。
-- [日本富士山Yeti滑雪場一日遊｜多種套餐任選＋溫泉體驗｜東京出發](https://www.kkday.com/zh-tw/product/152294-japan-ski-tour-mount-fuji-yeti-ski-resort-admission-ticket-tokyo)
-- [富士山滑雪｜Snow Park Yeti雪場・滑雪教學一日遊｜可選採草莓方案（東京出發）](https://www.kkday.com/zh-tw/product/137142-tokyo-fujiyama-snow-resort-yeti-tour-japan)
-  - 方案A：滑雪教學(2小時)＋雙板雪具＋纜車票＋入門票 
 - [【1人成團】東京日光一日遊｜日光東照宮＆華嚴瀑布＆日光溫泉泡湯＆日光江户村｜銀座出發](https://www.kkday.com/zh-tw/product/12060-nikko-day-tour-from-tokyo-unesco-world-heritage-sites-and-more-japan)
   - [讚]A方案：世界遺産・日光東照宮＆中禪寺湖＆華嚴瀑布＆日光溫泉鄉泡湯
   - B方案：世界遺産・日光東照宮＆Edo Wonderland日光江戶村
 - [精彩的東京一日遊巴士導覽，包含晴空塔和遊船、淺草雷門淺草寺、明治神宮、抹茶體驗、東京晴空塔、台場遊船、皇居](https://www.kkday.com/zh-tw/product/265132)
 
+# 東京一日遊  富士山Yeti滑雪
+- [日本富士山Yeti滑雪場一日遊｜多種套餐任選＋溫泉體驗｜東京出發](https://www.kkday.com/zh-tw/product/152294-japan-ski-tour-mount-fuji-yeti-ski-resort-admission-ticket-tokyo)
+- [富士山滑雪｜Snow Park Yeti雪場・滑雪教學一日遊｜可選採草莓方案（東京出發）](https://www.kkday.com/zh-tw/product/137142-tokyo-fujiyama-snow-resort-yeti-tour-japan)
+  - 方案A：滑雪教學(2小時)＋雙板雪具＋纜車票＋入門票 
 
 
 # 東京2日遊 觀光行程
