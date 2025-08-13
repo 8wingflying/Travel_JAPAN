@@ -2,6 +2,9 @@
 - 北海道位於日本的北部，南部隔津輕海峽和本州相望，北面則隔宗谷海峽和庫頁島（亦稱薩哈林島，日文稱樺太）相對，西面是日本海，東面則是鄂霍次克海、千島群島和太平洋。
 - 
 
+![北海道_1.png](北海道_1.png)
+
+
 ![北海道_2.png](北海道_2.png)
 
 ## [KKDAY](https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/?currency=TWD&sort=prec&page=1&count=10)
