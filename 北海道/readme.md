@@ -9,8 +9,22 @@
 
 ![北海道_3.png](北海道_3.png)
 
+![北海道_4.png](北海道_4.png)
+
 ![北海道_2.png](北海道_2.png)
 
+## 台灣直飛北海道
+- 台灣直飛北海道的航空不少，除了星宇、長榮、華航、ANA、JAL外，廉航的話也可以看酷航、虎航。航程大概 3.5~4.5 小時。
+- 北海道最主要的三個國際機場分別為：旭川機場(AKJ)、札幌新千歲機場(CTS)、函館機場(HKD)。出發前我們要先看好要去哪些景點，再來決定要買去哪一個機場。
+
+## 地點
+- 富良野 | 美瑛
+- 札幌
+- 旭川
+- 小樽
+- 函館 ==>
+  - [函館-大間鮪魚船票（含津輕海峽遊船）](https://www.kkday.com/zh-tw/product/286333) 
+- https://monicalife.com/world-trip/hokkaido-trip/%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%AA%E7%94%B1%E8%A1%8C%E5%8C%97%E6%B5%B7%E9%81%93%E8%87%AA%E7%94%B1%E8%A1%8C%E8%A1%8C%E7%A8%8B/
 ## [KKDAY](https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/?currency=TWD&sort=prec&page=1&count=10)
 - [【北海道自駕遊完整指南】北海道租車必看重點&經典自駕行程一篇掌握！](https://www.gltjp.com/zh-hant/article/item/20974/)
 
@@ -35,6 +49,7 @@
     - 北海道夏季有哪些當令的特色食材？ ==> 成吉思汗烤羊肉、蝦夷馬糞海膽、玉米、夕張哈密瓜等，都是北海道夏季盛產的特色食材，是夏季前往北海道的必嚐美味。
 - [北海道五大絕景一日遊｜青池・白鬚瀑布・四季彩之丘・深山峠・Flower Land｜札幌出發](https://www.kkday.com/zh-tw/product/527901)
 - [【日本北海道富良野一日遊】雲霄飛車之路・四季彩之丘・美瑛青池・白須瀑布・富田農場｜贈冰淇淋・4人成團・中日語服務](https://www.kkday.com/zh-tw/product/163860)
+- [日本北海道一日遊|洞爺湖+登別地獄谷+地球岬+支湖+昭和新山熊牧場|札幌出發](https://www.kkday.com/zh-tw/product/259856)
 - [日本北海道｜札幌藻岩山・旭山記念公園｜夜景遊覽](https://www.kkday.com/zh-tw/product/137229-mt-moiwa-asahiyama-memorial-park-tour-of-night-view-spots-sapporo)
   - 行程時間 2 小時 40 分鐘
   - 提供計程車接送服務，讓您短時間內同時享受到 2 個人氣夜間景點
