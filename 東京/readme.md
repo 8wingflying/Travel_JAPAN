@@ -14,10 +14,15 @@
   - 綠線：新宿・澀谷路線（新宿御苑，新宿駅南口，新宿西口，澀谷區役所前（澀谷公園・原宿通・明治神宮），東京鐵塔）
   - 很方便，各站可自行停留，看好時間和官網上的行車顯示，時間快到時提早在站牌等待，可以安排一早先去雷門戶外景點、中午去購物（晴空塔或台場），傍晚再去新宿體驗夜生活，回程再自己搭車回飯店
   - 從早上09:10搭上紅線觀光巴士，去了墨田美術館，然後再搭車欣賞沿途風景，最後回三菱終點站，再搭藍綠中間去了東京塔、增上寺，再回三菱大樓，再搭綠線巴士走完全程，這是一個特殊旅程，也是充實的一天
-
+= [日本東京｜夜間遊覽首都高速公路 SHIBUYA STREET RIDE｜澀谷出發](https://www.kkday.com/zh-tw/product/282231)
+- [精彩的東京一日遊巴士導覽，包含晴空塔和遊船、淺草雷門淺草寺、明治神宮、抹茶體驗、東京晴空塔、台場遊船、皇居](https://www.kkday.com/zh-tw/product/265132)
 # 東京一日遊 觀光行程
+- [日本・東京｜江戶・淺草雷門・晴空塔｜人力車體驗](https://www.kkday.com/zh-tw/product/1951-tokyo-asakusa-rickshaw-tour-japan)
 - [【鎌倉一日遊】鎌倉大佛・江之電・鎌倉高中・江之島| 含江之電體驗費用（東京出發）](https://www.kkday.com/zh-tw/product/140045-kanagawa-cultural-tour-great-buddha-enoshima-enoden-japan)
   - ※鎌倉高中至鎌倉大佛景點之間將搭乘江之電前往。前往搭乘電車的途中請務必跟緊導遊，如果中途掉隊的話後果自行負責。此費用為贈送項目，如因不可抗力因素無法搭乘江之電，費用不予退還。
+- [日本富士山Yeti滑雪場一日遊｜多種套餐任選＋溫泉體驗｜東京出發](https://www.kkday.com/zh-tw/product/152294-japan-ski-tour-mount-fuji-yeti-ski-resort-admission-ticket-tokyo)
+- [富士山滑雪｜Snow Park Yeti雪場・滑雪教學一日遊｜可選採草莓方案（東京出發）](https://www.kkday.com/zh-tw/product/137142-tokyo-fujiyama-snow-resort-yeti-tour-japan)
+  - 方案A：滑雪教學(2小時)＋雙板雪具＋纜車票＋入門票 
 - [【1人成團】東京日光一日遊｜日光東照宮＆華嚴瀑布＆日光溫泉泡湯＆日光江户村｜銀座出發](https://www.kkday.com/zh-tw/product/12060-nikko-day-tour-from-tokyo-unesco-world-heritage-sites-and-more-japan)
   - [讚]A方案：世界遺産・日光東照宮＆中禪寺湖＆華嚴瀑布＆日光溫泉鄉泡湯
   - B方案：世界遺産・日光東照宮＆Edo Wonderland日光江戶村
@@ -25,3 +30,6 @@
 # 東京2日遊 觀光行程
 - [日本東北2日遊｜銀山溫泉・藏王樹冰・狐狸村・鬼平江戶處｜含纜車體驗＋溫泉飯店住宿｜東京出發](https://www.kkday.com/zh-tw/product/182060-tohoku-japan-ouchi-juku-ginzan-onsen-zao-juhyo-cable-car)
 - [【夏秋季限定】立山黑部2日遊｜日本絕景上高地 立山黑部 諏訪湖｜秋季賞楓（東京出發）](https://www.kkday.com/zh-tw/product/152108-tokyo-tateyama-kurobe-alpine-route-kamikochi-2d-tour-japan)
+- [日本紅葉絕景2日遊｜輕井澤萬座吹割瀑布＆草津溫泉巡禮＆野猴溫泉療癒體驗（新宿出發](https://www.kkday.com/zh-tw/product/286450)
+- [日本富士山登山溫泉二日遊｜專業嚮導同行＋山屋住宿含餐｜東京出發](https://www.kkday.com/zh-tw/product/166964)
+- [【期間限定】富士山登山2日遊｜吉田口／富士宮口 登山路線可選｜新宿出發](https://www.kkday.com/zh-tw/product/285402)
