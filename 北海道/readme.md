@@ -14,6 +14,7 @@
 ## [KKDAY](https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/?currency=TWD&sort=prec&page=1&count=10)
 - [【北海道自駕遊完整指南】北海道租車必看重點&經典自駕行程一篇掌握！](https://www.gltjp.com/zh-hant/article/item/20974/)
 
+#### [北海道自由行三天二夜經典行程](https://www.gltjp.com/zh-hant/article/item/20753/#zh-10-271)
 
 ## 北海道的熱門觀光行程
 - https://www.kkday.com/zh-tw/category/jp-hokkaido/sightseeing-tours/list
