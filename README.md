@@ -1,5 +1,6 @@
 # Travel_JAPAN
 - [東京](./東京/readme.md)
+- [東京旅遊官方網站GO TOKYO](https://www.gotokyo.org/tc/index.html)
 
 ![JAPAN_MAP.png](JAPAN_MAP.png)
 
