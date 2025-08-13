@@ -1,6 +1,8 @@
 # Travel_JAPAN
 - [東京](./東京/readme.md)
 
+![JAPAN_MAP.png](JAPAN_MAP.png)
+
 # 東京買LP
 ![新宿_LP.png](新宿_LP.png)
 
