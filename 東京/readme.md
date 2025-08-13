@@ -1,5 +1,7 @@
 # info
 - 步步日本  https://www.bubu-jp.com/
+- 好運日本行  https://www.gltjp.com/zh-hant/
+  - [【熊野古道行程懶人包】一篇搞定！熊野三山兩天一夜示範行程](https://www.gltjp.com/zh-hant/article/item/20890/) 
 
 # 東京觀光巴士
 - https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/
