@@ -3,7 +3,7 @@
 - [【超嚴選】一篇搞定！北海道必買伴手禮19選](https://www.gltjp.com/zh-hant/article/item/20589/)
 - [【超嚴選】北海道最好逛的16個購物景點一篇掌握！](https://www.gltjp.com/zh-hant/article/item/20775/)
 - [【依類別嚴選】一篇搞定！北海道海鮮美食必吃人氣餐廳12選](https://www.gltjp.com/zh-hant/article/item/21039/)
-- [【出發前必讀】北海道自由行完整指南]()
+- [【出發前必讀】北海道自由行完整指南](https://www.gltjp.com/zh-hant/article/item/20753/)
 
 ![北海道_1.png](北海道_1.png)
 
