@@ -1,16 +1,18 @@
 # 和歌山 | 熊野古道 
 - https://www.bubu-jp.com/archives/category/area/kansai/wakayama
-
+- 和歌山自由行景點推薦 https://www.5c5g.net/post/%E5%92%8C%E6%AD%8C%E5%B1%B1%E8%87%AA%E7%94%B1%E8%A1%8C%E6%99%AF%E9%BB%9E%E6%8E%A8%E8%96%A6
+- [【和歌山一日遊】12大和歌山景點推介！和歌山城、紀三井寺、貴志車站｜行程、交通懶人包](https://www.klook.com/zh-HK/blog/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%80%E6%97%A5%E9%81%8A-%E6%99%AF%E9%BB%9E-%E8%A1%8C%E7%A8%8B/?msockid=116d6d722210665520dc783a230067ce)
+- [熊野古道徒步 & 那智瀑布一日遊（名古屋出發）](https://www.klook.com/zh-HK/activity/80054-kumano-kodo-nachi-falls-hiking-tour-nagoya/?spm=BlogArticle.InArticleActivity_LIST&clickId=d116480be4)
 #### [【和歌山景點】從熊野古道出發！探訪和歌山17個必去景點，精選當地6大美食](https://www.bubu-jp.com/archives/29882)
-- 1. 世界遺產 高野山
-- 2. 熊野古道
+- `1. 世界遺產 高野山`
+- `2. 熊野古道`
 - 3. 那智瀑布
 - 4. ADVENTURE WORLD(冒險大世界樂園)
-- 5. 和歌山城
+- `5. 和歌山城`
 - 6. 熊野本宮大社
 - 7. 金剛峯寺
 - 8.ToreTore市場南紀白濱（とれとれ市場）
-- 9.黒潮市場
+- `9.黒潮市場`
 - 10.白濱溫泉
 - 11.龍神溫泉
 - 12.和歌山縣立近代美術館
