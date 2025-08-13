@@ -1,4 +1,4 @@
-#
+# 和歌山 | 熊野古道 
 - https://www.bubu-jp.com/archives/category/area/kansai/wakayama
 
 #### [【和歌山景點】從熊野古道出發！探訪和歌山17個必去景點，精選當地6大美食](https://www.bubu-jp.com/archives/29882)
