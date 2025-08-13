@@ -4,5 +4,26 @@
 
 ![北海道_2.png](北海道_2.png)
 
+## [KKDAY](https://www.kkday.com/zh-tw/category/jp-tokyo/sightseeing-tours/list/?currency=TWD&sort=prec&page=1&count=10)
+- [【北海道自駕遊完整指南】北海道租車必看重點&經典自駕行程一篇掌握！](https://www.gltjp.com/zh-hant/article/item/20974/)
+
+
 ## 北海道的熱門觀光行程
 - https://www.kkday.com/zh-tw/category/jp-hokkaido/sightseeing-tours/list
+- https://www.gltjp.com/zh-hant/summary/area/hokkaido/
+- [【超嚴選】一篇就夠！北海道必看絕景景點18選](https://www.gltjp.com/zh-hant/article/item/20596/)
+
+## 夏日北海道
+- [夏日北海道](https://www.gltjp.com/zh-hant/article/item/21058/)
+  - 【千歲市】支笏湖國立公園
+  - 鮮豔奪目的藍色湖水聞名的「白金青池」，是美瑛町最具代表性的觀光景點之一。
+  - 【積丹郡】神威岬
+  - 【斜里郡】神之子池
+  - 【小樽】青之洞窟
+  - 夏季北海道必嚐！人氣餐廳3選
+    - 【小樽市】和牛黑澤 堺町通店
+    - 位於JR小樽車站步行約1分鐘的「小樽三角市場」內的著名餐廳。由同市場內的「武田鮮魚店」所經營，提供價格實惠的小樽特色新鮮海鮮料理。招牌菜包括奢華盛上小樽名產生海膽與鮭魚卵的「生海膽鮭魚卵丼」，將生海膽、螃蟹、干貝組合的「三色丼」（三食丼），以及鮭魚與鮭魚卵搭配的「親子丼」等共計25種以上的海鮮丼飯選擇。
+    - 【函館市】活魚料理 魷魚清 大門店  函館市是日本著名的魷魚產地，供貨的入舟漁港更設有專門的魷魚拍賣場。
+    - 北海道夏季有哪些當令的特色食材？ ==> 成吉思汗烤羊肉、蝦夷馬糞海膽、玉米、夕張哈密瓜等，都是北海道夏季盛產的特色食材，是夏季前往北海道的必嚐美味。
+
+## 冬日北海道    
