@@ -5,6 +5,9 @@
 ![JAPAN_MAP.png](JAPAN_MAP.png)
 
 ## 音響 ==? 秋葉原 買唱臂 唱針
+
+![秋葉原.png](秋葉原.png)
+
 - https://akihabara-bc.jp/akihabara-audio-equipment-stores/
 - https://today.line.me/tw/v3/article/5LWMvy
 - hi-fido
