@@ -4,6 +4,20 @@
 
 ![JAPAN_MAP.png](JAPAN_MAP.png)
 
+## 秋葉原 買唱臂 唱針
+- https://akihabara-bc.jp/akihabara-audio-equipment-stores/
+- hi-fido
+- audio union
+- Hard off (book off旗下)
+- 東京・秋葉原「テレオン 第2店 sound 110」
+  - Sound110 (秋葉原，萬世橋往昌平橋之間，限日語)
+- 《日本最大音響店DYNAMIC AUDIO 5555》
+- Dynamic Audio的二家店（秋葉原四家，新宿二家），一家是賣二手的
+  - https://www.dynamicaudio.jp/
+  - https://dynamicaudio4f.wordpress.com/2025/08/09/summer-analog-fair-in-h-a-l-3/
+- 另一家在對街，稱為Dynamic 5555，共有七層，每一層所賣的等級都不一樣
+  - 上午11:00 - 下午7:00 
+
 # 東京買LP
 ![新宿_LP.png](新宿_LP.png)
 
