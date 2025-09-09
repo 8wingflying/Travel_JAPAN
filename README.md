@@ -29,6 +29,7 @@
   - https://dynamicaudio4f.wordpress.com/2025/08/09/summer-analog-fair-in-h-a-l-3/
 - Dynamic Audio 5555 - 庫存豐富的老字號店
   - 另一家在對街，稱為Dynamic 5555，共有七層，每一層所賣的等級都不一樣
+  - https://dynamicaudio4f.wordpress.com/
   - https://astia.pixnet.net/blog/post/49678314
   - 從秋葉原站電器街口步行約5分鐘，沿著神田明神通。
   - 從1樓到7樓，從簡單的物品到高級的音響設備，他們都應有盡有，每層樓都有專業的工作人員駐守。 還有各種音響設備的展覽和可以聆聽的角落。
